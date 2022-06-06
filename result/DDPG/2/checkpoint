@@ -1,0 +1,2 @@
+model_checkpoint_path: "ddpgmodel"
+all_model_checkpoint_paths: "ddpgmodel"

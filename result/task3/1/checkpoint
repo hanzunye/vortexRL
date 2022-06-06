@@ -1,0 +1,2 @@
+model_checkpoint_path: "actor_local_weights"
+all_model_checkpoint_paths: "actor_local_weights"
